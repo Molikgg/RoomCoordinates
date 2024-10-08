@@ -1,4 +1,4 @@
-Console.Write("Enter Number of Coordinates: ");
+Console.Write("Enter Number of Rooms: ");
 int size = Convert.ToInt32(Console.ReadLine());
 Coordinate[] coordinateArray = Coordinate.GetCoordinate(size);// size 
 
